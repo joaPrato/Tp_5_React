@@ -8,7 +8,7 @@ const CarouselHome = () =>{
         <Carousel>
 
             <Carousel.Item>
-                <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='src\assets\images\img-carousel-1.jpg' alt='Imagen de fondo'/>
+                <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='\images\img-carousel-1.jpg' alt='Imagen de fondo'/>
                 <Carousel.Caption>
                     <h3>First slide label</h3>
                     <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -16,7 +16,7 @@ const CarouselHome = () =>{
             </Carousel.Item>
 
             <Carousel.Item>
-                <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='src\assets\images\img-carousel-2.jpg' alt='Imagen de fondo'/>
+                <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='\images\img-carousel-2.jpg' alt='Imagen de fondo'/>
                 <Carousel.Caption>
                     <h3>Second slide label</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -24,7 +24,7 @@ const CarouselHome = () =>{
             </Carousel.Item>
 
             <Carousel.Item>
-            <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='src\assets\images\img-carousel-3.jpg' alt='Imagen de fondo'/>
+            <img className='d-block w-100' style={{maxHeight:"500px",objectFit:"cover"}} src='\images\img-carousel-3.jpg' alt='Imagen de fondo'/>
                 <Carousel.Caption>
                     <h3>Third slide label</h3>
                     <p>
