@@ -16,7 +16,7 @@ const AboutUs = ()=>{
                 <div className="d-flex justify-content-around">
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="\images\img-card-1.jpg" />
+                        <Card.Img variant="top" src="public\images\img-card-1.jpg" />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
@@ -28,7 +28,7 @@ const AboutUs = ()=>{
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="\images\img-card-1.jpg" />
+                        <Card.Img variant="top" src="public\images\img-card-1.jpg" />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
@@ -40,7 +40,7 @@ const AboutUs = ()=>{
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="\images\img-card-1.jpg" />
+                        <Card.Img variant="top" src="public\images\img-card-1.jpg" />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
@@ -52,7 +52,7 @@ const AboutUs = ()=>{
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="\images\img-card-1.jpg" />
+                        <Card.Img variant="top" src="public\images\img-card-1.jpg" />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text>
